@@ -1,7 +1,7 @@
 ## 题目
 
-来源： [优达学城--编程基础：python](https://cn.udacity.com/course/programming-foundations-with-python--ud036)
-内容：使用 turtle 画出你想象。
+来源： [优达学城--编程基础：python](https://cn.udacity.com/course/programming-foundations-with-python--ud036)  
+内容：使用 turtle 画出你想象。  
 效果演示：
 ![python_show2.png](http://upload-images.jianshu.io/upload_images/4988302-0f120380498707d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
