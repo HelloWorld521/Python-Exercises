@@ -4,8 +4,7 @@
 内容： 
 >如何学习编写第一个程序，每个程序员都有不同的故事。我还是孩子是就开始学习变成了，当我的父亲在计算时代的先锋之一——数字设备公司（Digital Equipment Corporation）工作。我使用了一台简陋的计算机编写了第一个程序，这台计算机是父亲在家里的地下室组装而成的，他没有机箱，裸露的主板与键盘相连，显示器是裸露的阴极射线管。我编写的这个程序是一款简单的猜数字有习，其输出类似于下面这样。
 
-效果：
-
+效果：  
 ![python_show1.png](http://upload-images.jianshu.io/upload_images/4988302-170b5dd48ff165b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 我的解法
