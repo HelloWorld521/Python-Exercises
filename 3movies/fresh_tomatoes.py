@@ -16,7 +16,7 @@ main_page_head = '''
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
-    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
     <style type="text/css" media="screen">
         body {
@@ -139,7 +139,7 @@ def create_movie_tiles_content(movies):
         youtube_id_match = re.search(
             r'(?<=v=)[^&#]+', movie.trailer_url)
         if youtube_id_match:
-            youtube_id_match = 'http://www.youtube.com/embed/' + youtube_id_match.group(0) + '?autoplay=1&html5=1';
+            youtube_id_match = 'https://www.youtube.com/embed/' + youtube_id_match.group(0) + '?autoplay=1&html5=1';
         else :
             youtube_id_match = movie.trailer_url
         trailer_youtube_id = youtube_id_match 
