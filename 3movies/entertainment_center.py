@@ -3,7 +3,7 @@ import media
 import fresh_tomatoes
 
 overwatch = media.Movie("Overwatch","守望者们回归",
-	"https://overwatch.nos.netease.com/2/media/Wallpapers/Genji_wallpaper/2048x2048.jpg",
+	"http://overwatch.nos.netease.com/2/media/Wallpapers/Genji_wallpaper/2048x2048.jpg",
 	"https://flv.bn.netease.com/videolib3/1506/26/cJtFW2189/HD/cJtFW2189-mobile.mp4")
 
 school_of_rock = media.Movie("School of Rock"," Using rock music to learn",
@@ -15,7 +15,7 @@ spider_gay = media.Movie("美队3 内战","搞笑蜘蛛侠",
 	"https://www.youtube.com/watch?time_continue=16&v=Wa5yWjsjGoI")
 
 overwatch2 = media.Movie("双龙","双龙",
-	"https://overwatch.nos.netease.com/2/media/videos/dragons-animated-short.jpg",
+	"http://overwatch.nos.netease.com/2/media/videos/dragons-animated-short.jpg",
 	"https://flv.bn.netease.com/videolib3/1605/16/nTaMi2329/HD/nTaMi2329-mobile.mp4")
 
 overwatch3 = media.Movie("虚幻争霸","虚幻争霸试玩",
